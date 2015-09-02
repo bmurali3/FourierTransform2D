@@ -1,3 +1,4 @@
 *.o
 fft2d
 bh*
+*swp
