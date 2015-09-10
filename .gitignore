@@ -1,4 +1,4 @@
 *.o
 fft2d
-bh*
-*swp
+*.txt
+*.swp
